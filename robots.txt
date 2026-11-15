@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enjiaqinn.github.io/yinghuashipi/sitemap.xml
